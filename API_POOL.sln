@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON_API", "JSON_API\JSON_API.csproj", "{95494A4E-1F5A-450C-870B-569AC3104707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FROM_DB", "FROM_DB\FROM_DB.csproj", "{17EA4D66-619A-4B03-B75E-D90B79847D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95494A4E-1F5A-450C-870B-569AC3104707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95494A4E-1F5A-450C-870B-569AC3104707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95494A4E-1F5A-450C-870B-569AC3104707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95494A4E-1F5A-450C-870B-569AC3104707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EA4D66-619A-4B03-B75E-D90B79847D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EA4D66-619A-4B03-B75E-D90B79847D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EA4D66-619A-4B03-B75E-D90B79847D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EA4D66-619A-4B03-B75E-D90B79847D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
